@@ -27,7 +27,7 @@ namespace Harvest.Net.Models
         public long? ProjectId { get; set; }
 
         /// <summary>
-        /// Task id involved in the daily report.
+        /// Taks id involved in the daily report.
         /// </summary>
         public long? TaskId { get; set; }
 

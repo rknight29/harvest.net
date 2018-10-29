@@ -4,7 +4,7 @@ using System;
 namespace Harvest.Net.Models
 {
     /// <summary>
-    /// Expenses in the harvest API.
+    /// Expenses in the harves API.
     /// </summary>
     [SerializeAs(Name = "expense")]
     public class Expense : IModel
